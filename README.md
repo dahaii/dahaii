@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emrullah Enes VAROL</h1>
 <h3 align="center">Software Developer and Engineering Student</h3>
-/*
+<!-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dahaii/Horoku/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dahaii/Horoku/output/github-contribution-grid-snake.svg">
@@ -9,8 +9,7 @@
 
 _generated with [dahaii](https://github.com/dahaii)_
 
-*/
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dahaii&label=Profile%20views&color=0e75b6&style=flat" alt="dahaii" /> </p>
 
 - 🔭 I’m currently working on **Venus Defense Systems from Akdeniz University**
