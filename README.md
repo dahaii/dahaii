@@ -14,7 +14,7 @@ _generated with [dahaii](https://github.com/dahaii)_
 
 - 🔭 I’m currently working on **Venus Defense Systems from Akdeniz University**
 
-- 🌱 I’m currently learning **AI, ML, OpenCV, YOLO**
+- 🌱 I’m currently learning **AI, ML, DL, OpenCV, YOLO, CNN**
 
 - 📫 How to reach me **eenesvaroll@gmail.com**
 
