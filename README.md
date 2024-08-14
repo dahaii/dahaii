@@ -35,6 +35,6 @@ _generated with [dahaii](https://github.com/dahaii)_
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dahaii&show_icons=true&locale=en&layout=compact" alt="dahaii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dahaii&show_icons=true&locale=en" alt="dahaii" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dahaii&" alt="dahaii" /></p>
