@@ -16,7 +16,9 @@ _generated with [dahaii](https://github.com/dahaii)_
 
 - 🔭 Currently working on **Venus Defense Systems**
 
-- 🌱 Currently learning **AI, ML, DL, OpenCV, YOLO, CNN, LLM, NLP**
+- ☕ Interested in **AI and Data Science**
+
+- 🌱 Currently learning **ML, DL, OpenCV, YOLO, CNN, LLM, NLP**
 
 - 📫 How to reach me **eenesvaroll@gmail.com**
 
