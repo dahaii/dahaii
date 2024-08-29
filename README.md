@@ -20,7 +20,7 @@
 _generated with [dahaii](https://github.com/dahaii)_
 -->
 
-- 👨‍💻 Engineering Student at **Akdeniz University, Antalya/Turkey**
+- 👨🏻‍💻 Engineering Student at **Akdeniz University, Antalya/Turkey**
 
 - 🔭 Currently working on **Venus Defense Systems**
 
