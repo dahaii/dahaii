@@ -24,7 +24,7 @@ _generated with [dahaii](https://github.com/dahaii)_
 
 - 🔭 Currently working on **Venus Defense Systems**
 
-- ☕ Interested in **AI and Data Science**
+- 👑 Interested in **AI and Data Science**
 
 - 🌱 Currently learning **ML, DL, OpenCV, YOLO, CNN, LLM, NLP**
 
