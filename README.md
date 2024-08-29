@@ -8,7 +8,7 @@
 <h3 align="center">Software Developer</h3>
 <br>
 
-## <img src="https://media4.giphy.com/media/AOMMPLGdZnpbIPT17v/giphy.gif" width ="25"><b> About Me</b>
+## <img src="https://media4.giphy.com/media/AOMMPLGdZnpbIPT17v/giphy.gif" width ="23"><b> About Me</b>
 
 <!--
 <picture>
