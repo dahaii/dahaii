@@ -3,10 +3,10 @@
 <div align = "center"> <img align="center" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width ="64"> </div>
 <div align = "center"> <img align="center" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="64"> </div>
 <div align = "center"> <img align="center" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width ="64"> </div>
-<div align = "center"> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1NWN3am9kcDcyN2kycWc0emhjOXF2c2plMzRrYzE0ZXJpN2NuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif" width ="180"> </div>
--->
 <h3 align="center">Software Developer</h3>
 <br>
+-->
+<div align = "center"> <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1NWN3am9kcDcyN2kycWc0emhjOXF2c2plMzRrYzE0ZXJpN2NuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/NiwZ9THiCOodYySoSh/giphy.gif" width ="216"> </div>
 
 ## <img src="https://media.giphy.com/media/L3EhThOkMWnzynDqCP/giphy.gif" width ="25"><b> About Me</b>
 
