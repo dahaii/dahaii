@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Enes</h1>
+<h1 align="center">Hello! I'm Enes</h1> 
 <!--
 <div align = "center"> <img align="center" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width ="64"> </div>
 <div align = "center"> <img align="center" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width ="64"> </div>
