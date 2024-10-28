@@ -30,7 +30,7 @@ _generated with [dahaii](https://github.com/dahaii)_
 
 - 📫 How to reach me **eenesvaroll@gmail.com**
 
-- 📄 Know about my experiences **[myCV](https://www.flowcv.com/resume/01e2qic6oq)**
+- 📄 Know about my experiences **[myCV](https://flowcv.com/resume/01e2qic6oq)**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Skills</b>
 
